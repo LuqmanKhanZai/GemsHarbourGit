@@ -1,0 +1,1 @@
+[21-Dec-2022 08:36:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SellerController::update() in /home/mdotgvqj/gemsharbor.mdotts.com/portal/app/Http/Controllers/SellerController.php on line 74
